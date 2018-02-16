@@ -3,10 +3,10 @@ from tweepy import OAuthHandler
 from datetime import datetime
 
 # Keys 
-consumer_key = "ZR62y5rbtgnhnoI53Gsz7p6iG"
-consumer_secret = "0juYzHbuwk5yTEWvF1k78e8b1pAAQRWWcVDnUCL3gopWNXdJFW"
-access_token = "131948406-LZAPpru5SeO8OKHWqf1anDWMsGXIJCeRFKTzEGc7"
-access_secret = "FbiPrFi07gDnm2SCtNeVMtJMmHkWIHTXAIkrNf320aAuc"
+consumer_key = "******************"
+consumer_secret = "******************************************"
+access_token = "******************************************"
+access_secret = "******************************************"
 
 # Auth
 auth = OAuthHandler(consumer_key, consumer_secret)
